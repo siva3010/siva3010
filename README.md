@@ -5,7 +5,6 @@ WEB DEVELOPER
 -------------
 
 * 🌍  I'm based in India
-* 🖥️  See my portfolio at [My Website](https://siva3010.github.io/siva/)
 * 🧠  I'm learning Cloud Computing
 * 🤝  I'm open to collaborating on Cloud Project ,AI/ML ,JS
 
