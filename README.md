@@ -1,12 +1,12 @@
-Hi 👋 My name is Sivaprakash G
+Hi 👋 My name is Siva
 ==============================
 
 WEB DEVELOPER
 -------------
 
 * 🌍  I'm based in India
-* 🧠  I'm learning Cloud Computing
-* 🤝  I'm open to collaborating on Cloud Project ,AI/ML ,JS
+* 🧠  I'm learning Cloud Computing and Devops
+* 🤝  I'm open to collaborating on Cloud Project , Data Engineer project
 
 ### Skills
 
